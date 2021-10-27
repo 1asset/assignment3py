@@ -1,4 +1,4 @@
-# Assignment3 SE-2004 (Dias Karibaev, Asset Kanatov, Yeskendir Iskakov)
+# Assignment 3 SE-2004 (Dias Karibaev, Asset Kanatov, Yeskendir Iskakov)
 
 Writing program to check user verification using Flask library.
 
@@ -30,3 +30,12 @@ After these steps, you are ready to run test.py file. It is a main file and you'
 * Debugger PIN: 989-466-843
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
+
+## Examples
+
+When you already ran the test.py file, you have to follow the link http://127.0.0.1:5000/ and add login after the slash /. You'll go to the authorization page.
+![1](https://user-images.githubusercontent.com/82859085/139130938-9321ec09-78b0-44f4-9537-009bf511e347.PNG)
+
+After that, you need to input login and password, that you inserted into the table.
+![2](https://user-images.githubusercontent.com/82859085/139131035-8d9e3342-5c64-440b-a246-3f77a675cb0b.PNG)
+You can check them, in case you forgot.
