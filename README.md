@@ -16,7 +16,8 @@ At first we need to create a database in DBMS application(SQL server,Pgadmin) or
 ```  app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:5432@localhost/flask' ```
 
 The next step is to create a table in your new database, the database name is authorizationn.
-``` CREATE TABLE authorization (
+``` 
+CREATE TABLE authorization (
 id INTEGER PRIMARY KEY, 
 login VARCHAR,
 password VARCHAR,
