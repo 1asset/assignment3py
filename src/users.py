@@ -40,8 +40,8 @@ class authorizationn(db.Model):
         connection.close()                        
 
 
-#db.create_all()                          
+db.create_all()                          
 
-#new_user = authorizationn(1,'random', 'password', 'randomtoken')      
-#db.session.add(new_user)                                                              
-#db.session.commit()
+new_user = authorizationn(1,'random', 'password', 'randomtoken')      
+db.session.add(new_user)                                                              
+db.session.commit()
