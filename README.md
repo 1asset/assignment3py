@@ -42,3 +42,8 @@ After these steps, you are ready to run test.py file. It is a main file and you'
 ![2](https://user-images.githubusercontent.com/82859085/139131035-8d9e3342-5c64-440b-a246-3f77a675cb0b.PNG)
 
 #### You can check them, in case you forgot.
+
+##### You need to follow the link and write protected after it, then you input the token.
+You get 2 different outputs depending on your token correctness.
+``` This token satisfies the condition ``` if your token is correct
+``` This token is not verified ``` If your token is not verified
