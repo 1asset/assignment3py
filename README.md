@@ -21,4 +21,5 @@ id INTEGER PRIMARY KEY,
 login VARCHAR,
 password VARCHAR,
 token VARCHAR
-) ```
+) 
+```
