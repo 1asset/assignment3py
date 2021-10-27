@@ -45,5 +45,8 @@ After these steps, you are ready to run test.py file. It is a main file and you'
 
 ##### You need to follow the link and write protected after it, then you input the token.
 You get 2 different outputs depending on your token correctness.
-``` This token satisfies the condition ``` if your token is correct
-``` This token is not verified ``` If your token is not verified
+``` This token satisfies the condition ``` 
+if your token is correct
+
+``` This token is not verified ``` 
+If your token is not verified
