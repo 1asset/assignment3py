@@ -1,6 +1,6 @@
 # Assignment3 SE-2004 (Dias Karibaev,Asset Kanatov,Yeskendir Iskakov)
 
-Writing program to check user verification using Flask library
+Writing program to check user verification using Flask library.
 
 ## Installation
 Before starting to use the code you must install required packages and modules. All packages and libraries will be provided in requirements.txt file, that is uploaded in the repository.
@@ -22,4 +22,10 @@ login VARCHAR,
 password VARCHAR,
 token VARCHAR
 ) 
+```
+Further step is to run users.py file, so it inserts the row into the table and after that you need to comment the last 4 rows in the code, because you already created a script. If you don't do that, you'll have an error, because it keeps creating the same script and the id is not distinct.
+After these steps, you are ready to run test.py file. It is a main file and you'll get a link in the terminal, that you should follow.
+```* Debugger is active!
+* Debugger PIN: 989-466-843
+* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
