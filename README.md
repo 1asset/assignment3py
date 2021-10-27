@@ -1,4 +1,4 @@
-# Assignment3 SE-2004 (Dias Karibaev,Asset Kanatov,Yeskendir Iskakov)
+# Assignment3 SE-2004 (Dias Karibaev, Asset Kanatov, Yeskendir Iskakov)
 
 Writing program to check user verification using Flask library.
 
