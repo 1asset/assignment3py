@@ -13,5 +13,4 @@ $ pip install requirements.txt
 
 At first we need to create a database in DBMS application(SQL server,Pgadmin) or other database management system. After that, you need to successfully connect your server with the database. We called our database "flask" as it is shown in the code. Also, it's important to know the login and password of your database, ours is postgres and 5432.
 
-```  app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:5432@localhost/flask' 
-```
+```  app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:5432@localhost/flask' ```
