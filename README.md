@@ -3,7 +3,7 @@
 Writing program to check user verification using Flask library
 
 ## Installation
-Before starting to use the code you must install required packages and modules. All packages and libraries will be provided in requirements.txt file.
+Before starting to use the code you must install required packages and modules. All packages and libraries will be provided in requirements.txt file, that is uploaded in the repository.
 
 Pypi
 bash
